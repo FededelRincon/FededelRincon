@@ -1,18 +1,16 @@
 #
-<h3 align="left"> - 👋 Hi, I'm Federico, and welcome to my github repository.</h3>
-<!-- <h3 align="left">A passionate Argentian frontend developer.</h3> -->
+<h4> - 👋 Hi, I'm Federico, and welcome to my github repository.</h4>
+<!-- <h4>A passionate Argentian frontend developer.</h4> -->
 
-<h3 align="left"> - 👀 I'm a very curious person and I am always trying to learn new things.
+<h4> - 👀 I'm a very curious person and I am always trying to learn new things.
 
-<h3 align="left"> - 🌱 I´m very interesting in MERN route, and also i want to learn more about react-native too, because i want to be a good fullstack developer.</h3>
+<h4> - 🌱 I´m very interesting in MERN route, and also i want to learn more about react-native too, because i want to be a good fullstack developer.</h4>
 
-<h3>
-    - 📫 How to reach me: it’s possible to mail me to delrincon@gmail.com , (Please, do not spam or publicity here, please.)
-</h3>
+<h4> - 📫 How to reach me: it’s possible to mail me to delrincon@gmail.com , (Please, do not spam or publicity here, please). </h4>
 
 #
 <!-- 1- me siento comodo -->
-<h3> - Languages and Tools that i feel very comfortable with:</h3>
+<h4> - Languages and Tools that i feel very comfortable working with:</h4>
     <span></span>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <span></span>
@@ -33,7 +31,7 @@
     
 <!-- 2- necesito mas practica -->
 <br/>
-<h3> - Languages and Tools that i need to practice a little more:</h3>
+<h4> - Languages and Tools that i need to practice a little more:</h4>
     <span></span>
         <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     <span></span>
@@ -58,7 +56,7 @@
 
 <!-- 3- algun dia... -->
 <br/>
-<h3> - Languages and Tools that i will learn some day:</h3>
+<h4> - Languages and Tools that i will learn some day soon:</h4>
     <span></span>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <span></span>
