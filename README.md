@@ -6,7 +6,7 @@
 
 <h4> - 🌱 I´m very interesting in MERN route, and also i want to learn more about react-native too, because i want to be a good fullstack developer.</h4>
 
-<h4> - 📫 How to reach me: it’s possible to mail me to delrincon@gmail.com , (Please, do not spam or publicity here, please). </h4>
+<h4> - 📫 How to reach me: it’s possible to mail me to delrincon@gmail.com. (Please, do not spam or publicity here, please) </h4>
 
 #
 <!-- 1- me siento comodo -->
@@ -21,11 +21,11 @@
     <span></span>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
     <span> </span>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <span> </span>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <span> </span>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+    <span> </span>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <span></span>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     
@@ -42,6 +42,8 @@
         <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://v4.mui.com/static/logo.png" alt="mui" width="40" height="40"/> </a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <span></span>
+        <a href="https://strapi.io/" target="_blank" rel="noreferrer"> <img src="https://coollogo.net/wp-content/uploads/2021/03/Strapi-logo.svg" alt="mongodb" width="40" height="40"/> </a>
     <span></span>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <span></span>
