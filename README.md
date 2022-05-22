@@ -7,10 +7,9 @@ FrontEnd Developer Jr.
 I've been learning to code for many years from now, probably more than 5, after i graduate in real state carrer carrer. I started with Python by hobby, but then i know and learn HTML, CSS, and JS, and my passion beggins. After that, i learn some backend with node and express, then i frontend with react with hooks, some react-native to, and some next.js, and other many interesting stuffs like TS or frontend frameworks like material UI or mongoDB.
 
 * 🌍 I'm based in Cordoba - Argentina
-* 🖥️ See my portfolio at [notReadyYet.com](http://notReadyYet.com)
+* 🖥️ See my portfolio at [here](https://fdr-portfolio.netlify.app/)
 * ✉️  You can contact me at [delrincon@gmail.com](mailto:delrincon@gmail.com)
-* 🚀 I'm currently not working, but im looking for my first opportunity
-* 🧠 I'm learning TS.
+* 🚀 I'm currently not working as developer, but im looking for my first opportunity
 * ⚡  I Like play the guitar, i like travel, i like to learn new stuffs
 
 ### Skills: 
@@ -35,4 +34,8 @@ I've been learning to code for many years from now, probably more than 5, after 
 
 ### Socials: 
 
-<p align="left"> <a href="https://www.facebook.com/federico.delrincon/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/FededelRincon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fede_dr21/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/deberia completar esto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/federico-del-rincon/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.facebook.com/federico.delrincon/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/fede_dr21/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+</p>
