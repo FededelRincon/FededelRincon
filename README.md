@@ -7,7 +7,7 @@ FrontEnd Developer Jr.
 I've been learning to code for many years from now, probably more than 5, after i graduate in real state carrer carrer. I started with Python by hobby, but then i know and learn HTML, CSS, and JS, and my passion beggins. After that, i learn some backend with node and express, then i frontend with react with hooks, some react-native to, and some next.js, and other many interesting stuffs like TS or frontend frameworks like material UI or mongoDB.
 
 * 🌍 I'm based in Cordoba - Argentina
-* 🖥️ See my portfolio at [here](https://fdr-portfolio.netlify.app/)
+* 🖥️ See my portfolio at [here](https://portfolio-fdr-react.vercel.app/)
 * ✉️  You can contact me at [delrincon@gmail.com](mailto:delrincon@gmail.com)
 * 🚀 I'm currently not working as developer, but im looking for my first opportunity
 * ⚡  I Like play the guitar, i like travel, i like to learn new stuffs
